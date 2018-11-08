@@ -20,7 +20,8 @@ I conducted project using modules which i studied to master web crawling.<br>
 5. Crawl Posts title, uploader, upload time, number of clicker about 10pages.
 6. Convert them to Pandas DataFrame and save to csv file named '중고나라_데크.csv'
 
-**You can see the full code in the file I uploaded 'Web Crawling Project'**
+<br>
+<br>
 
 ### 2. Web Crawling Project 2 : Naver뉴스 기사 크롤링
 
@@ -29,6 +30,9 @@ I conducted project using modules which i studied to master web crawling.<br>
 3. Enter each news by clicking news title and script the contents.
 4. Crawl news title, data, context.
 5. Convert them to DataFrame and save to csv file '아모레퍼시픽'.
+
+<br>
+<br>
 
 ### 3. Web Crawling Project 3 : Nate뉴스 기사 크롤링
   - Same as upper project 'Naver뉴스 기사 크롤링'
