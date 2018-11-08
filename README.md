@@ -2,15 +2,16 @@
 Practice Python Web Crawling and Conduct Project
 
 
-## 1. Practice Web Crawling with Python
+## Practice Web Crawling with Python
 I studied about couple of modules that can be used in the Web Crawling.
 - BeautifulSoup
 - Selenium
 
 
-## 2. Conduct Project
+## Conduct Project
 I conducted project using modules which i studied to master web crawling.<br>
-The project name is '중고나라에서 스노우보드를 판매하는 게시글 크롤링하기' and it was written in Korean.
+
+### 1. Web Crawling Project 1 : 중고나라에서 스노우보드를 판매하는 게시글 크롤링
 
 1. Login my account into 'www.naver.com'.(네이버)
 2. Search '네이버' on the search window.
@@ -20,3 +21,23 @@ The project name is '중고나라에서 스노우보드를 판매하는 게시�
 6. Convert them to Pandas DataFrame and save to csv file named '중고나라_데크.csv'
 
 **You can see the full code in the file I uploaded 'Web Crawling Project'**
+
+### 2. Web Crawling Project 2 : Naver뉴스 기사 크롤링
+
+1. Go to Naver news category.
+2. Search the company i want to know.(ex. 아모레퍼시픽)
+3. Enter each news by clicking news title and script the contents.
+4. Crawl news title, data, context.
+5. Convert them to DataFrame and save to csv file '아모레퍼시픽'.
+
+### 3. Web Crawling Project 3 : Nate뉴스 기사 크롤링
+  - Same as upper project 'Naver뉴스 기사 크롤링'
+ 1. Go to Nate news category.
+ 2. Search the company i want to know about(ex. 아모레퍼시픽)
+ 3. Enter each news by clicking news title and script the contents.
+ 4. Crawl news title, data, context.
+ 5. Convert them to DataFrame and save to csv file '아모레퍼시픽'
+  - Because of limit number of page of searching, I convert the type of searching to period.
+  - When the page is at the last, i update the start period with last news date on the page.
+  
+
