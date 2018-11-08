@@ -21,7 +21,6 @@ I conducted project using modules which i studied to master web crawling.<br>
 6. Convert them to Pandas DataFrame and save to csv file named '중고나라_데크.csv'
 
 <br>
-<br>
 
 ### 2. Web Crawling Project 2 : Naver뉴스 기사 크롤링
 
@@ -31,7 +30,6 @@ I conducted project using modules which i studied to master web crawling.<br>
 4. Crawl news title, data, context.
 5. Convert them to DataFrame and save to csv file '아모레퍼시픽'.
 
-<br>
 <br>
 
 ### 3. Web Crawling Project 3 : Nate뉴스 기사 크롤링
