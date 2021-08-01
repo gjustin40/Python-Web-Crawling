@@ -1,4 +1,5 @@
-
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
 everytime_data/everytime46.csv
 *.csv
 *.jpg
